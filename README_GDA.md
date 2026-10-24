@@ -7,5 +7,5 @@ pnpm i baseline-browser-mapping@latest -D
 
 pnpm i
 
-pnpm dev
+pnpm run dev
 
